@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm ishi-o
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishi-o)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishi-o&exclude_repo=ishi-o.github.io,ishio_blogs)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a Java/Go backend developer and a student at DLUT.
 
